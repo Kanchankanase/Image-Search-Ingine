@@ -1,2 +1,2 @@
 # Image-Search-Ingine
-This is image search ingine project
+This is a image search ingine project.
